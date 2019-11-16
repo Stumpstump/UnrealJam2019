@@ -25148,3 +25148,44 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.16-00.40.35:053][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Level1" FILE="../../../../../GitHub/EpicMegaJam/StealingHumans/Content/TopDownBP/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2019.11.16-00.40.35:119][537]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
 [2019.11.16-00.40.35:528][537]LogSavePackage: Moving '../../../../../GitHub/EpicMegaJam/StealingHumans/Saved/Level1AD3F77A548AB39F9E5E14BA27C2D59CB.tmp' to '../../../../../GitHub/EpicMegaJam/StealingHumans/Content/TopDownBP/Maps/Level1.umap'
+[2019.11.16-00.50.35:449][676]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2019.11.16-00.50.35:449][676]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/Level1' took 0.069
+[2019.11.16-00.50.35:453][676]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2019.11.16-00.50.35:453][676]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton]
+[2019.11.16-00.50.35:470][676]LogSavePackage: Moving '../../../../../GitHub/EpicMegaJam/StealingHumans/Saved/UE4_Mannequin_Skeleton_Auto41A2AC484429698F657DC218CAFF82327.tmp' to '../../../../../GitHub/EpicMegaJam/StealingHumans/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto4.uasset'
+[2019.11.16-00.50.35:471][676]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/WASDCharacter] ([1] browsable assets)...
+[2019.11.16-00.50.35:519][676]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/WASDCharacter.WASDCharacter]
+[2019.11.16-00.50.35:519][676]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/WASDCharacter]
+[2019.11.16-00.50.35:602][676]LogSavePackage: Moving '../../../../../GitHub/EpicMegaJam/StealingHumans/Saved/WASDCharacter_Auto4623EEC9E4B47D7FA718DFFB54C375D99.tmp' to '../../../../../GitHub/EpicMegaJam/StealingHumans/Saved/Autosaves/Game/TopDownBP/Blueprints/WASDCharacter_Auto4.uasset'
+[2019.11.16-00.50.35:603][676]LogFileHelpers: Auto-saving content packages took 0.151
+[2019.11.16-00.52.28:790][ 15]LogInit: XAudio2 using 'Sennheiser Amplifier (GSX 1000 Main Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.16-01.53.45:442][ 39]LogInit: XAudio2 using 'Sennheiser Amplifier (GSX 1000 Main Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.16-01.59.23:965][120]LogInit: XAudio2 using 'Sennheiser Amplifier (GSX 1000 Main Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.16-02.07.59:642][666]LogInit: XAudio2 using 'Sennheiser Amplifier (GSX 1000 Main Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.16-02.08.15:201][375]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-02.08.15:251][375]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.11.16-02.08.15:251][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-02.08.15:251][375]PIE: New page: PIE session: Level1 (Nov 15, 2019, 2:08:15 PM)
+[2019.11.16-02.08.15:371][375]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Level1
+[2019.11.16-02.08.15:514][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.143644s)
+[2019.11.16-02.08.15:525][375]LogAIModule: Creating AISystem for world Level1
+[2019.11.16-02.08.15:525][375]LogPlayLevel: PIE: World Init took: (0.010890s)
+[2019.11.16-02.08.15:525][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Level1.Level1 to /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 (0.154688s)
+[2019.11.16-02.08.15:601][375]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2019.11.16-02.08.15:627][375]LogInit: XAudio2 using 'Sennheiser Amplifier (GSX 1000 Main Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.16-02.08.15:635][375]LogInit: FAudioDevice initialized.
+[2019.11.16-02.08.15:665][375]LogLoad: Game class is 'GJ_GameMode_C'
+[2019.11.16-02.08.15:670][375]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.11.15-20.08.15
+[2019.11.16-02.08.15:671][375]LogWorld: Bringing up level for play took: 0.004886
+[2019.11.16-02.08.15:671][375]LogOnline: OSS: Creating online subsystem instance for: :Context_220
+[2019.11.16-02.08.15:675][375]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_Level1 0.648
+[2019.11.16-02.08.15:675][375]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.11.16-02.08.16:608][477]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.11.16-02.08.16:609][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-02.08.16:609][477]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Level1
+[2019.11.16-02.08.16:609][477]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-02.08.16:637][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-02.08.16:637][477]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.11.16-02.08.16:705][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-02.08.16:718][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2019.11.16-02.08.16:753][478]LogPlayLevel: Display: Destroying online subsystem :Context_220
